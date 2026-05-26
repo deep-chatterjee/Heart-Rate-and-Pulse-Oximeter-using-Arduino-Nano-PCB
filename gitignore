@@ -1,0 +1,33 @@
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.bin
+*.map
+
+# Arduino IDE files
+*.bak
+*.orig
+*.rej
+
+# KiCad
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+fp-info-cache
+_autosave-*
+*.000
+*.lock
+*-backups/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
