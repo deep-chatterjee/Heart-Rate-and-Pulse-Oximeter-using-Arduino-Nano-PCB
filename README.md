@@ -74,15 +74,15 @@ This project uses a **custom KiCad PCB** with all components integrated onto a s
 
 **3D View:**
 
-![3D View](Heart_Rate_And_Pulse_Oximeter_3D.png)
+![3D View](Images/Heart_Rate_And_Pulse_Oximeter_3D.png)
 
 **PCB Layout:**
 
-![PCB View](Heart_Rate_And_Pulse_Oximeter_PCB_View.png)
+![PCB View](Images/Heart_Rate_And_Pulse_Oximeter_PCB_View.png)
 
 **Schematic:**
 
-![Schematic](Heart_Rate_And_Pulse_Oximeter_Schematic.png)
+![Schematic](Images/Heart_Rate_And_Pulse_Oximeter_Schematic.png)
 
 Gerber files for PCB fabrication are included in `Heart_Rate_And_Pulse_Oximeter_Gerber.zip`.
 
